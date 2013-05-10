@@ -19,6 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
+    require 'boolify'
     nil.boolify     #=> false
     ''.boolify      #=> false
     '1'.boolify     #=> true
